@@ -64,7 +64,7 @@ public class Leg {
         this.durationText = durationText;
     }
 
-    public void setDurationValue(double duration) {
+    public void setDurationValue(double duration) {a
         this.duration = duration;
     }
 
